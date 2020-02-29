@@ -1,7 +1,7 @@
 ruby "2.4.4"
 source "https://rubygems.org"
 
-gem "rake", "~> 11.2"
+gem "rake", "~> 12.3"
 gem "rails", "~> 5.0"
 gem "pg", "~> 0.18"
 gem "sass-rails", "~> 5.0"
